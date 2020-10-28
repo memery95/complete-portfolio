@@ -174,12 +174,12 @@ form button {
 }
 
 .portfolio-button {
-  background-color: #99002C;
-  color: #D2D2D2;
-  border-radius: 5px;
-  padding: 7px;
-  margin: 0 10px 0 0;
-  text-decoration: none;
+  background-color: #99002C !important;
+  color: #D2D2D2 !important;
+  border-radius: 5px !important;
+  padding: 7px !important;
+  margin: 0 10px 0 0 !important;
+  text-decoration: none !important;
 }
 
 .portfolio-button:hover {
