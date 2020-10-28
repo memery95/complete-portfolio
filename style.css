@@ -172,3 +172,26 @@ form label {
 form button {
   display: block;
 }
+
+.portfolio-button {
+  background-color: #99002C;
+  color: #D2D2D2;
+  border-radius: 5px;
+  padding: 7px;
+  margin: 0 10px 0 0;
+  text-decoration: none;
+}
+
+.portfolio-button:hover {
+  background-color: darkgray;
+  color: black;
+}
+
+.portfolio-button:visited{
+  background-color: darkblue;
+  color: #D2D2D2;
+}
+.item p {
+  margin-bottom: 10px;
+}
+
